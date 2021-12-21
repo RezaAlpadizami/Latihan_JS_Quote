@@ -1,0 +1,1 @@
+# Latihan_JS_Quote
